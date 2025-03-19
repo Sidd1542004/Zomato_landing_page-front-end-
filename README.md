@@ -13,7 +13,7 @@ A visually appealing Zomato-inspired landing page built using **HTML** and **CSS
 ## Screenshots
 
 ### Homepage
-![Homepage](images/Screenshot%20(137).png)
+![image alt](https://github.com/Sidd1542004/Zomato_landing_page-front-end-/blob/d055137d1a164f0767b9f889d74fa07898ef03ef/Screenshot%20(137).png)
 
 ### Food Categories
 ![Food Categories](images/Screenshot%20(138).png)
