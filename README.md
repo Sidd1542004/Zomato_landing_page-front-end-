@@ -19,7 +19,7 @@ A visually appealing Zomato-inspired landing page built using **HTML** and **CSS
 ![image alt](https://github.com/Sidd1542004/Zomato_landing_page-front-end-/blob/193c8588c5637e1f7b2b3a6df2e2c1e38fc67589/Screenshot%20(138).png)
 
 ### Collections and Localities
-![Collections and Localities](images/Screenshot%20(139).png)
+![image alt](https://github.com/Sidd1542004/Zomato_landing_page-front-end-/blob/189e773c235b2b6ff3a55e5ce2afcc9845b723e0/Screenshot%20(139).png)
 
 ## Tech Stack
 
